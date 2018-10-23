@@ -1,4 +1,8 @@
 # React-Bingmaps
+
+**This fork was created to solve this issue. https://github.com/iniamudhan/react-bingmaps/issues/23**
+**Please use https://www.npmjs.com/package/react-bingmaps unless you also need this fix.**
+
 ## Introduction
 React-Bingmaps is a react.js version of [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx)
 
