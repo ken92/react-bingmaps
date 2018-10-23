@@ -1,7 +1,7 @@
 {
-  "name": "react-bingmaps",
-  "description": "Bingmaps in React.js. React.js component for Bingmaps.",
-  "version": "3.6.1",
+  "name": "@possumsnorts/react-bingmaps",
+  "description": "Bingmaps in React.js. React.js component for Bingmaps.  Forked from Iniamudhan's react-bingmaps.",
+  "version": "3.6.2",
   "private": false,
   "author": "Iniamudhan Baskar",
   "keywords": [
@@ -14,12 +14,12 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/iniamudhan/react-bingmaps.git"
+    "url": "https://github.com/ken92/react-bingmaps.git"
   },
   "bugs": {
-    "url": "https://github.com/iniamudhan/react-bingmaps/issues"
+    "url": "https://github.com/ken92/react-bingmaps/issues"
   },
-  "homepage": "https://github.com/iniamudhan/react-bingmaps",
+  "homepage": "https://github.com/ken92/react-bingmaps",
   "dependencies": {
     "classnames": "^2.2.5",
     "react-dom": "^16.2.0"
